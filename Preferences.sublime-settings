@@ -35,7 +35,6 @@
 	"index_exclude_patterns":
 	[
 		"*.log",
-		"/Users/ewj/Desktop/ahoy/venv*"
 	],
 	"rulers":
 	[
