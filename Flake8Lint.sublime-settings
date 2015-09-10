@@ -1,0 +1,5 @@
+{
+    "popup": false,
+    "ignore": ["N803","N806","N802"],
+    "blink_gutter_marks_on_success": false
+}

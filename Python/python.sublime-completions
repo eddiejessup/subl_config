@@ -1,0 +1,12 @@
+{
+    "scope": "source.python",
+
+    "completions":
+    [
+        { "trigger": "inp", "contents": "import numpy as np"},
+        { "trigger": "impl", "contents": "import matplotlib as mpl"},
+        { "trigger": "ipp", "contents": "import matplotlib.pyplot as plt"},
+        { "trigger": "figax", "contents": "fig = plt.figure()\nax = fig.gca()"},
+        { "trigger": "future", "contents": "from __future__ import print_function, division"}
+    ]
+}

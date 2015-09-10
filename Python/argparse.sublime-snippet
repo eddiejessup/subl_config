@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+parser = argparse.ArgumentParser(description='$1')
+parser.add_argument('$2')
+args = parser.parse_args()
+]]></content>
+    <tabTrigger>cmdline</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
+
+<snippet>
+    <content><![CDATA[
+\textcolor{red}{$1}
+]]></content>
+    <tabTrigger>red</tabTrigger>
+    <scope>text.tex.latex</scope>
+</snippet>

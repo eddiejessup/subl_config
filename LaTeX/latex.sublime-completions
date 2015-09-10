@@ -1,0 +1,11 @@
+{
+    "scope": "text.tex.latex",
+
+    "completions":
+    [
+        { "trigger": "ecoli", "contents": "\\textit{E. coli}"},
+        { "trigger": "etal", "contents": "\\textit{et al.}"},
+        { "trigger": "mrm", "contents": "\\mathrm{}"},
+        { "trigger": "um", "contents": "\\micro\\m"},
+    ]
+}

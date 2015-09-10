@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoPEP8",
+		"Case Conversion",
+		"Emmet",
+		"Fold Python",
+		"Fold Python Docstrings",
+		"Jedi - Python autocompletion",
+		"Markdown HTML Preview",
+		"Open Finder",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Trimmer",
+		"WordCount",
+		"Wrap Plus"
+	]
+}
