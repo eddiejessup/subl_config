@@ -24,11 +24,13 @@
         "passive_warnings": false,
         "paths": {
             "osx": [
+                "/Users/ejm/.virtualenvs/subl_env/bin",
                 "/Users/ewj/.virtualenvs/subl_env/bin"
             ]
         },
         "python_paths": {
             "osx": [
+                "/Users/ejm/.virtualenvs/subl_env/bin",
                 "/Users/ewj/.virtualenvs/subl_env/bin"
             ]
         },
