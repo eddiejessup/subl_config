@@ -19,7 +19,6 @@
 	],
 	"folder_exclude_patterns":
 	[
-		"data",
 		".git",
 		"build",
 		"venv"
