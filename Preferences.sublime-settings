@@ -1,48 +1,48 @@
 {
-    "auto_complete_commit_on_tab": true,
-    "color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
-    "dictionary": "Packages/Language - English/en_GB.dic",
-    "ensure_newline_at_eof_on_save": true,
-    "file_exclude_patterns":
-    [
-        "*.pyc",
-        "*.pyo",
-        ".DS_Store",
-        "*.class",
-        "*.aux",
-        "*.out",
-        "*.lof",
-        "*.loc",
-        "*.lot",
-        "*.toc",
-        "*.so"
-    ],
-    "folder_exclude_patterns":
-    [
-        "data",
-        ".git",
-        "build",
-        "venv"
-    ],
-    "font_face": "Input Mono",
-    "font_size": 17,
-    "highlight_line": true,
-    "highlight_modified_tabs": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "indent_to_bracket": true,
-    "index_exclude_patterns":
-    [
-        "*.log",
-        "/Users/ewj/Desktop/ahoy/venv*"
-    ],
-    "rulers":
-    [
-        79
-    ],
-    "shift_tab_unindent": true,
-    "spell_check": true,
-    "translate_tabs_to_spaces": true
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		".DS_Store",
+		"*.class",
+		"*.aux",
+		"*.out",
+		"*.lof",
+		"*.loc",
+		"*.lot",
+		"*.toc",
+		"*.so"
+	],
+	"folder_exclude_patterns":
+	[
+		"data",
+		".git",
+		"build",
+		"venv"
+	],
+	"font_face": "Input Mono",
+	"font_size": 19,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/Users/ewj/Desktop/ahoy/venv*"
+	],
+	"rulers":
+	[
+		79
+	],
+	"shift_tab_unindent": true,
+	"spell_check": true,
+	"translate_tabs_to_spaces": true
 }
