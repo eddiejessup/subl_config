@@ -1,23 +1,40 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Add Folder To Project",
 		"AdvancedNewFile",
 		"AutoPEP8",
 		"Case Conversion",
+		"Clang Format",
+		"ColorPicker",
+		"Cython",
+		"Djaneiro",
 		"Emmet",
-		"Fold Python",
+		"Expand Selection to Quotes",
 		"Fold Python Docstrings",
+		"Git",
 		"Jedi - Python autocompletion",
-		"Markdown HTML Preview",
+		"Jinja2",
+		"LESS",
+		"Markdown Preview",
 		"Open Finder",
 		"Package Control",
+		"Pretty JSON",
+		"Rust Enhanced",
+		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-cppcheck",
 		"SublimeLinter-flake8",
+		"Theme - Flatland",
+		"Transcrypt",
 		"Trimmer",
+		"Unicode Character Insert",
 		"WordCount",
 		"Wrap Plus"
 	]

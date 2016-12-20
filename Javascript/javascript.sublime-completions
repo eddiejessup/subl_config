@@ -1,0 +1,8 @@
+{
+    "scope": "source.js",
+
+    "completions":
+    [
+        { "trigger": "clog", "contents": "console.log($0)"}
+    ]
+}

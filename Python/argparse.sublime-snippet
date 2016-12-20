@@ -7,11 +7,3 @@ args = parser.parse_args()
     <tabTrigger>cmdline</tabTrigger>
     <scope>source.python</scope>
 </snippet>
-
-<snippet>
-    <content><![CDATA[
-\textcolor{red}{$1}
-]]></content>
-    <tabTrigger>red</tabTrigger>
-    <scope>text.tex.latex</scope>
-</snippet>

@@ -3,10 +3,12 @@
 
     "completions":
     [
-        { "trigger": "inp", "contents": "import numpy as np"},
+        { "trigger": "debu", "contents": "import pdb; pdb.set_trace()"},
+        { "trigger": "db", "contents": "import pdb; pdb.set_trace()"},
+        { "trigger": "inu", "contents": "import numpy as np"},
         { "trigger": "impl", "contents": "import matplotlib as mpl"},
         { "trigger": "ipp", "contents": "import matplotlib.pyplot as plt"},
         { "trigger": "figax", "contents": "fig = plt.figure()\nax = fig.gca()"},
-        { "trigger": "future", "contents": "from __future__ import print_function, division"}
+        { "trigger": "future", "contents": "from __future__ import (print_function, division, absolute_import,\n                        unicode_literals)"}
     ]
 }

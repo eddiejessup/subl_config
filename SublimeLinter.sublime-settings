@@ -7,11 +7,24 @@
         "gutter_theme_excludes": [],
         "lint_mode": "background",
         "linters": {
+            "cppcheck": {
+                "@disable": false,
+                "args": [],
+                "enable": "style",
+                "excludes": [],
+                "std": []
+            },
+            "eslint": {
+                "@disable": true,
+                "args": [],
+                "excludes": []
+            },
             "flake8": {
                 "@disable": false,
                 "args": [],
                 "builtins": "",
                 "excludes": [],
+                "executable": "",
                 "ignore": "",
                 "jobs": "1",
                 "max-complexity": -1,
