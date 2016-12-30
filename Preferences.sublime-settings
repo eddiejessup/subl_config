@@ -1,6 +1,7 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_face": "Source Code Pro",
 	"auto_complete_commit_on_tab": false,
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -31,16 +32,12 @@
 		".sass_cache",
 		"__pycache__"
 	],
-	"font_face": "Inconsolata",
 	"font_size": 20,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Jedi - Python autocompletion",
-		"Makefile",
-		"Vintage",
-		"WordCount"
+		"Vintage"
 	],
 	"indent_to_bracket": true,
 	"index_exclude_patterns":
