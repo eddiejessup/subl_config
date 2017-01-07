@@ -8,6 +8,8 @@
 	[
 		"Add Folder To Project",
 		"AdvancedNewFile",
+		"Anaconda",
+		"Apache Hive",
 		"AutoPEP8",
 		"Case Conversion",
 		"Clang Format",
@@ -34,10 +36,6 @@
 		"Trimmer",
 		"Unicode Character Insert",
 		"WordCount",
-		"Wrap Plus",
-		"Anaconda",
-		"Apache Hive",
-		"Diffy"
+		"Wrap Plus"
 	]
 }
-
