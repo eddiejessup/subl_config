@@ -39,13 +39,11 @@
         "paths": {
             "osx": [
                 "/Users/ejm/.virtualenvs/subl_env/bin",
-                "/Users/ewj/.virtualenvs/subl_env/bin"
             ]
         },
         "python_paths": {
             "osx": [
                 "/Users/ejm/.virtualenvs/subl_env/bin",
-                "/Users/ewj/.virtualenvs/subl_env/bin"
             ]
         },
         "rc_search_limit": 3,
