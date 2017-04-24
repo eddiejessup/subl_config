@@ -1,5 +1,6 @@
 {
 	"auto_complete_commit_on_tab": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -34,6 +35,7 @@
 	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"https_proxy": "webproxy.lhr4.corp.booking.com:3128",
 	"ignored_packages":
 	[
 		"Vintage"
