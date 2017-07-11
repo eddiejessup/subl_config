@@ -29,7 +29,8 @@
 		"venv",
 		"build",
 		".sass_cache",
-		"__pycache__"
+		"__pycache__",
+		".ipynb_checkpoints"
 	],
 	"font_face": "Inconsolata",
 	"font_size": 18,
@@ -38,6 +39,7 @@
 	"https_proxy": "webproxy.lhr4.corp.booking.com:3128",
 	"ignored_packages":
 	[
+		"Anaconda",
 		"Vintage"
 	],
 	"indent_to_bracket": true,

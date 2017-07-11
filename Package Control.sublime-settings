@@ -1,6 +1,5 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "webproxy.lhr4.corp.booking.com:3128",
 	"in_process_packages":
 	[
 	],
@@ -12,6 +11,7 @@
 		"Apache Hive",
 		"AutoPEP8",
 		"Case Conversion",
+		"Column Select",
 		"Diffy",
 		"Expand Selection to Quotes",
 		"Git",
