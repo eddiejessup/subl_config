@@ -11,15 +11,16 @@
 		"Anaconda",
 		"Apache Hive",
 		"AutoPEP8",
+		"BeautifyRust",
 		"Case Conversion",
 		"Clang Format",
 		"ColorPicker",
+		"Column Select",
 		"Cython",
 		"Diffy",
-		"Djaneiro",
-		"Emmet",
 		"Expand Selection to Quotes",
 		"Git",
+		"Gofmt",
 		"Jinja2",
 		"LESS",
 		"Markdown Preview",
@@ -35,7 +36,6 @@
 		"Theme - Flatland",
 		"Trimmer",
 		"Unicode Character Insert",
-		"WordCount",
 		"Wrap Plus"
 	]
 }
