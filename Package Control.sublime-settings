@@ -1,6 +1,5 @@
 {
 	"bootstrapped": true,
-	"http_proxy": "webproxy.lhr4.corp.booking.com:3128",
 	"in_process_packages":
 	[
 	],
@@ -22,20 +21,14 @@
 		"Git",
 		"Gofmt",
 		"Jinja2",
-		"LESS",
 		"Markdown Preview",
-		"Open Finder",
 		"Package Control",
 		"Pretty JSON",
-		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-cppcheck",
 		"SublimeLinter-flake8",
-		"Theme - Flatland",
 		"Trimmer",
-		"Unicode Character Insert",
+		"WordCount",
 		"Wrap Plus"
 	]
 }
