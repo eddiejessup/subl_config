@@ -34,11 +34,10 @@
 		"target",
 		".ipynb_checkpoints"
 	],
-	"font_face": "Inconsolata",
-	"font_size": 16,
+	"font_face": "Fira Code",
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"https_proxy": "webproxy.lhr4.corp.booking.com:3128",
 	"ignored_packages":
 	[
 		"Anaconda",
