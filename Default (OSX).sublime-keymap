@@ -1,0 +1,21 @@
+[
+    {
+        "keys": ["super+k", "super+p"],
+        "command": "set_file_type",
+        "args": {"syntax": "Packages/Python/Python.sublime-syntax"}
+    },
+    {
+        "keys": ["super+k", "super+m"],
+        "command": "set_file_type",
+        "args": {"syntax": "Packages/Markdown/Markdown.sublime-syntax"}
+    },
+    {
+        "keys": ["super+k", "super+h"],
+        "command": "set_file_type",
+        "args": {"syntax": "Packages/Apache Hive/Hive.tmLanguage"}
+    },
+    {
+        "keys": ["super+k", "super+a"],
+        "command": "prompt_add_folder"
+     },
+]
