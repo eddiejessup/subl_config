@@ -4,11 +4,14 @@
     "completions":
     [
         { "trigger": "debu", "contents": "import pdb; pdb.set_trace()"},
+        { "trigger": "webu", "contents": "import wdb; wdb.set_trace()"},
         { "trigger": "figax", "contents": "fig = plt.figure()\nax = fig.gca()"},
         { "trigger": "futimp", "contents": "from __future__ import (print_function, division, unicode_literals,\n                        absolute_import)\n" },
         { "trigger": "iplt", "contents": "import matplotlib.pyplot as plt" },
         { "trigger": "impl", "contents": "import matplotlib as mpl"},
         { "trigger": "inp", "contents": "import numpy as np" },
-        { "trigger": "ipd", "contents": "import pandas as pd" }
+        { "trigger": "ipd", "contents": "import pandas as pd" },
+        { "trigger": "ipa", "contents": "import os.path as opath" },
+        { "trigger": "akw", "contents": "*args, **kwargs" }
     ]
 }
