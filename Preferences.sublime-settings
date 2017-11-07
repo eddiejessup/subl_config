@@ -22,6 +22,7 @@
 		"tags",
 		".tags",
 		".tags_sorted_by_file",
+		".coverage",
 		"*.rlib"
 	],
 	"folder_exclude_patterns":
@@ -32,10 +33,13 @@
 		".sass_cache",
 		"__pycache__",
 		"target",
-		".ipynb_checkpoints"
+		".ipynb_checkpoints",
+		".mypy_cache",
+		".cache",
+		"*.egg-info"
 	],
-	"font_face": "Inconsolata",
-	"font_size": 16,
+	"font_face": "Fira Code",
+	"font_size": 18,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"https_proxy": "webproxy.lhr4.corp.booking.com:3128",
