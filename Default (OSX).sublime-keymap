@@ -17,5 +17,10 @@
     {
         "keys": ["super+k", "super+a"],
         "command": "prompt_add_folder"
-     },
+    },
+    {
+        "keys": ["super+k", "super+w"],
+        "command": "toggle_setting",
+        "args": {"setting": "word_wrap"}
+    }
 ]
