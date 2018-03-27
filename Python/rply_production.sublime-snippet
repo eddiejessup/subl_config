@@ -1,7 +1,0 @@
-<snippet>
-    <content><![CDATA[
-@pg.production('$1')
-]]></content>
-    <tabTrigger>pr</tabTrigger>
-    <scope>source.python</scope>
-</snippet>
