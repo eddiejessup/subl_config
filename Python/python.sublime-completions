@@ -12,6 +12,8 @@
         { "trigger": "inp", "contents": "import numpy as np" },
         { "trigger": "ipd", "contents": "import pandas as pd" },
         { "trigger": "ipa", "contents": "import os.path as opath" },
-        { "trigger": "akw", "contents": "*args, **kwargs" }
+        { "trigger": "akw", "contents": "*args, **kwargs" },
+        { "trigger": "ler", "contents": "logger = logging.getLogger(__name__)" },
+        { "trigger": "loglev", "contents": "logging.basicConfig(level=logging.INFO)" }
     ]
 }

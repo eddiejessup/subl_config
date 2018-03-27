@@ -1,5 +1,6 @@
 {
-	"auto_complete_commit_on_tab": false,
+	"animation_enabled": false,
+	"auto_complete_commit_on_tab": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
@@ -39,9 +40,10 @@
 		"*.egg-info"
 	],
 	"font_face": "Fira Code",
-	"font_size": 18,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
 		"Anaconda",
@@ -59,5 +61,6 @@
 	"shift_tab_unindent": true,
 	"show_full_path": true,
 	"spell_check": false,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false
 }
