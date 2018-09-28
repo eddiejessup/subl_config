@@ -13,7 +13,12 @@
         { "trigger": "ipd", "contents": "import pandas as pd" },
         { "trigger": "ipa", "contents": "import os.path as opath" },
         { "trigger": "akw", "contents": "*args, **kwargs" },
+        { "trigger": "ling", "contents": "import logging" },
         { "trigger": "ler", "contents": "logger = logging.getLogger(__name__)" },
-        { "trigger": "loglev", "contents": "logging.basicConfig(level=logging.INFO)" }
+        { "trigger": "loglev", "contents": "logging.basicConfig(level=logging.INFO)" },
+        { "trigger": "linf", "contents": "logger.info()" },
+        { "trigger": "wopen", "contents": "with open() as file:" },
+        { "trigger": "enum", "contents": "enumerate" },
+        { "trigger": "pr", "contents": "print" }
     ]
 }

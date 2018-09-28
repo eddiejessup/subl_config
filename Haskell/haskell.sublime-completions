@@ -1,0 +1,14 @@
+{
+    "scope": "source.haskell",
+
+    "completions":
+    [
+        { "trigger": "debu", "contents": "import Debug.Trace"},
+        { "trigger": "dd", "contents": ":: "},
+        { "trigger": "fm", "contents": "<\\$> "},
+        { "trigger": "ar", "contents": "-> "},
+        { "trigger": "far", "contents": "=> "},
+        { "trigger": "ba", "contents": "<- "},
+        { "trigger": "iqa", "contents": "import qualified "}
+    ]
+}
