@@ -1,7 +1,9 @@
 {
+	"always_show_minimap_viewport": true,
 	"animation_enabled": false,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -47,13 +49,7 @@
 	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
-		"Anaconda",
-		"AutoPEP8",
-		"SublimeLinter",
-		"SublimeLinter-eslint",
-		"SublimeLinter-flake8",
-		"Vintage",
-		"WordCount"
+		"Vintage"
 	],
 	"indent_to_bracket": true,
 	"index_exclude_patterns":
@@ -67,7 +63,7 @@
 	"shift_tab_unindent": true,
 	"show_full_path": true,
 	"spell_check": false,
-	"theme": "Default.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false
 }

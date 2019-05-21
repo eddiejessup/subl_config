@@ -10,11 +10,6 @@
         "args": {"syntax": "Packages/Markdown/Markdown.sublime-syntax"}
     },
     {
-        "keys": ["super+k", "super+h"],
-        "command": "set_file_type",
-        "args": {"syntax": "Packages/Apache Hive/Hive.tmLanguage"}
-    },
-    {
         "keys": ["super+k", "super+a"],
         "command": "prompt_add_folder"
     },
@@ -22,5 +17,29 @@
         "keys": ["super+k", "super+w"],
         "command": "toggle_setting",
         "args": {"setting": "word_wrap"}
+    },
+    {
+        "keys": ["super+k", "super+h"],
+        "command": "focus_neighboring_group",
+        "args": {"forward": false}
+    },
+    {
+        "keys": ["super+k", "super+l"],
+        "command": "focus_neighboring_group",
+        "args": {"forward": true}
+    },
+    {
+        "keys": ["super+k", "super+d"],
+        "command": "find_selection_definition_in_project",
+        "args": {}
+    },
+    {
+        "keys": ["j", "j"],
+        "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
     }
 ]

@@ -7,16 +7,35 @@
 			[
 				"hie"
 			],
-			"enabled": true,
+			"enabled": false,
 			"languageId": "haskell",
 			"scopes":
 			[
 				"source.haskell"
 			],
+			"settings":
+			{
+				"languageServerHaskell":
+				{
+					"diagnosticsOnChange": false,
+					"formattingProvider": "floskell"
+				}
+			},
 			"syntaxes":
 			[
-				"Packages/Haskell/Haskell.sublime-syntax"
+				"Packages/Haskell/Haskell.sublime-syntax",
+				"Packages/Hasky/Hasky.sublime-syntax"
 			]
 		}
-	}
+	},
+	"complete_all_chars": false,
+	"highlight_active_signature_parameter": false,
+	"log_debug": false,
+	"log_payloads": false,
+	"log_server": false,
+	"log_stderr": false,
+	"show_diagnostics_count_in_view_status": true,
+	"show_diagnostics_in_view_status": false,
+	"show_diagnostics_severity_level": 3,
+	"show_references_in_quick_panel": true
 }
