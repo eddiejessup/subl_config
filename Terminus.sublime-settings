@@ -1,0 +1,6 @@
+{
+	"theme": "solarized-dark-higher-contrast",
+    "256color": true,
+    "unix_term": "xterm-256color",
+    "scrollback_history_size": 300
+}
